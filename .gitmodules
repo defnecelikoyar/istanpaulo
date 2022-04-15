@@ -1,6 +1,6 @@
-[submodule "nodule"]
-	path = nodule
+[submodule "frontend"]
+	path = frontend
 	url = https://github.com/defnecelikoyar/istanpaulo_frontend
-[submodule "backnodule"]
-	path = backnodule
+[submodule "backend"]
+	path = backend
 	url = https://github.com/defnecelikoyar/istanpaulo_backend
