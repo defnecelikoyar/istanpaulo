@@ -1,0 +1,6 @@
+[submodule "istanpaulo_frontend"]
+	path = istanpaulo_frontend
+	url = https://github.com/defnecelikoyar/istanpaulo_frontend
+[submodule "istanpaulo_backend"]
+	path = istanpaulo_backend
+	url = https://github.com/defnecelikoyar/istanpaulo_backend
